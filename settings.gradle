@@ -1,0 +1,1 @@
+include ':app', ':ToastApp', ':NotificationApp', ':DialogApp', ':DialogApp', ':FewActivity', ':IntentFilter', ':mireaApp', ':calculatorapp2', ':CalculatorApp2', 'CalculatorApp'

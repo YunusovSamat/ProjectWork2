@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IntentFilter</string>
+    <string name="bDate">show date</string>
+    <string name="bTime">show time</string>
+    <string name="time">time</string>
+    <string name="date">date</string>
+    <string name="time_or_date">show time or date</string>
+</resources>
